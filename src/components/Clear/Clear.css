@@ -1,0 +1,73 @@
+body{
+    background-color: #262730;
+}
+
+.flexbox2{
+    word-wrap: break-word;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: transparent;
+    height: 400px;
+    width: 100%;
+
+    }
+.box2{
+    position: relative;
+    height: 275px;
+    width: 1320px;
+    color: white;
+    background-color: transparent;
+    padding: 48px;
+    
+}
+
+.flexp2{
+    width: 950px;
+    font-size: 16.5px;
+    text-align: left;
+    float: right;
+
+}
+.button2{
+    position: absolute;
+    left: 29%;
+    width: 230px;
+     height: 31px;
+     margin-top: 10px;
+     bottom: 75px;
+   
+
+}
+.but2{
+     background-color: #D90D42;
+     color: white;
+     border: none;
+     font-size: 16.5px;
+     text-transform: capitalize;
+     padding: 0.75rem 1.10rem;
+     
+}
+.but2:hover{
+    cursor: pointer;
+    
+}
+.zdj2{
+    position: absolute;
+    left: 2.75%;
+    width: 301px;
+    height: 201px;
+    margin: auto;
+    bottom:25%;
+    object-fit: contain;
+
+}
+.flexh2{
+    width: 950px;
+    font-size: 25.8px;
+    text-align: left;
+    font-weight: 500;
+    font-family: sans-serif;
+    float: right;
+}
