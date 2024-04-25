@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/praktczech.github.io/react/static/css/main.b716cc13.css",
-    "main.js": "/praktczech.github.io/react/static/js/main.04d1e32e.js",
-    "static/js/453.ed3810f9.chunk.js": "/praktczech.github.io/react/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/praktczech.github.io/react/index.html",
-    "main.b716cc13.css.map": "/praktczech.github.io/react/static/css/main.b716cc13.css.map",
-    "main.04d1e32e.js.map": "/praktczech.github.io/react/static/js/main.04d1e32e.js.map",
-    "453.ed3810f9.chunk.js.map": "/praktczech.github.io/react/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/react/static/css/main.b716cc13.css",
+    "main.js": "/react/static/js/main.b7409451.js",
+    "static/js/453.ed3810f9.chunk.js": "/react/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/react/index.html",
+    "main.b716cc13.css.map": "/react/static/css/main.b716cc13.css.map",
+    "main.b7409451.js.map": "/react/static/js/main.b7409451.js.map",
+    "453.ed3810f9.chunk.js.map": "/react/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b716cc13.css",
-    "static/js/main.04d1e32e.js"
+    "static/js/main.b7409451.js"
   ]
 }
