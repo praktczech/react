@@ -2,72 +2,87 @@ body{
     background-color: #262730;
 }
 
-.flexbox2{
+.flexbox2 {
     word-wrap: break-word;
     display: flex;
     justify-content: center;
     align-items: center;
     align-content: center;
     background-color: transparent;
-    height: 400px;
+    height: 308.59px;
     width: 100%;
+}
 
-    }
-.box2{
+.box2 {
     position: relative;
-    height: 275px;
-    width: 1320px;
+    height: 212.59px;
+    width: 1224px ;
     color: white;
     background-color: transparent;
     padding: 48px;
-    
 }
 
+
+
 .flexp2{
-    width: 950px;
+    position: relative;
+    width: auto;
+    max-width: 900px;
     font-size: 16.5px;
     text-align: left;
     float: right;
+    margin-top: 0;
+    margin-bottom: 20px;
+    word-wrap: break-word;
+    display: flex;
+
 
 }
 .button2{
-    position: absolute;
-    left: 29%;
-    width: 230px;
-     height: 31px;
-     margin-top: 10px;
-     bottom: 75px;
-   
-
-}
+    position: relative;
+    width: 0;
+    display: block;
+    left: 26.5%;
+    bottom: 0;
+    top: 80%;
+}   
 .but2{
+   
      background-color: #D90D42;
      color: white;
      border: none;
      font-size: 16.5px;
      text-transform: capitalize;
      padding: 0.75rem 1.10rem;
+     width: 230.18px;
+     height: 51.1px;
+     border: 1px solid white;
      
 }
+
 .but2:hover{
     cursor: pointer;
     
 }
 .zdj2{
     position: absolute;
-    left: 2.75%;
-    width: 301px;
+    width: auto;
     height: 201px;
-    margin: auto;
-    bottom:25%;
     object-fit: contain;
+    left: 48px;
+    top: 48px;
+    margin: auto;
+    
 
 }
 .flexh2{
-    width: 950px;
+    width: 900px;
     font-size: 25.8px;
     text-align: left;
     font-weight: 500;
     font-family: sans-serif;
     float: right;
+    margin-top: 0;
+    margin-bottom: 10px;
 }
+

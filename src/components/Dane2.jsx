@@ -1,4 +1,4 @@
-
+import React from "react";
 function Dane2(props) {
     return (
         <div className={props.class1}>
@@ -12,3 +12,4 @@ function Dane2(props) {
     );
 }
 export default Dane2
+
